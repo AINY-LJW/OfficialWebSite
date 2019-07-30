@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>access_token信息展示</title>
+</head>
+<body>
+	<h2>access_token 信息展示</h2>
+	 	<div class="wrapper">
+			<ul>
+				<li>
+				   access_token:<br/>
+				   <p th:text="${accessToken }">空</p>
+				</li>
+				<li>
+					refresh_token：<br/>	
+					<p th:text="${refreshToken }">空</p>
+				</li>
+				<li>
+					session_secret: <br/>
+					<p th:text="${sessionSecret}">空</p>
+				</li>
+				<li>
+					session_key: <br/>
+					<p th:text="${sessionKey}">空</p>
+				</li>
+			</ul>
+		</div>
+	
+		<th:if test="${!empty user}">
+			<ul>
+				<li>
+				   uid:<br/>
+				   <p>${user.uid}</p>
+				</li>
+				<li>
+					uname:：<br/>	
+					<p>${user.uname}</p>
+				</li>
+				<li>
+					portrait: <br/>
+					<p>${user.portrait}</p>
+				</li>
+			</ul>
+		</th:if>
+	<a href="index">返回首页</a>
+
+</body>
+</html>
