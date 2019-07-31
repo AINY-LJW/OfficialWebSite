@@ -30,4 +30,8 @@ public class PageController {
 		return "index";
 		
 	}
+	@GetMapping("login")
+	public String toLoginPage() {
+		return "login";
+	}
 }
