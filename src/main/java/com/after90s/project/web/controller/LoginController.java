@@ -23,11 +23,9 @@ import org.apache.shiro.authc.UnknownAccountException;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.authz.UnauthorizedException;
 import org.apache.shiro.subject.Subject;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import com.after90s.project.web.user.service.UserServiceImpl;
 
 /**
  * <p>TODO 类描述</p>
@@ -86,9 +84,11 @@ public class LoginController {
 			}
 			map.put("msg", msg);
 			return "/loginFial";
+		}else {
+			currentUser.logout();
 		}
-		// 登录失败，重定向到LoginSuccess.action
-		return "redirect:/loginFial";
+		// 已经登录，重定向到LoginSuccess.action
+		return "redirect:/index";
  
 	}
 	/**

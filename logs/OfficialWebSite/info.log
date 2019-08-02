@@ -1,0 +1,526 @@
+[2019-08-02 12:16:13,178][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19136 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 12:16:13,185][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 12:16:14,334][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 12:16:14,337][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 12:16:16,519][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 12:16:16,521][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@357c4819
+[2019-08-02 12:16:17,367][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 4.646 seconds (JVM running for 5.538)
+[2019-08-02 12:20:25,869][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19136 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 12:20:25,869][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 12:20:26,451][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 12:20:26,454][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 12:20:26,862][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 12:20:26,863][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1c065f73
+[2019-08-02 12:20:27,349][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.533 seconds (JVM running for 255.493)
+[2019-08-02 13:13:14,127][http-nio-9999-exec-7][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 13:27:50,044][http-nio-9999-exec-4][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 13:27:50,828][http-nio-9999-exec-10][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 13:30:05,661][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19136 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:30:05,662][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:30:06,255][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 13:30:06,258][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 13:30:06,616][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:30:06,617][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1c2271e4
+[2019-08-02 13:30:07,106][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.497 seconds (JVM running for 4434.801)
+[2019-08-02 13:32:16,237][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19136 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:32:16,237][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:32:16,544][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 13:32:16,546][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 13:32:16,831][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:32:16,832][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@12d98158
+[2019-08-02 13:32:17,280][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.094 seconds (JVM running for 4564.961)
+[2019-08-02 13:32:45,369][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:32:45,375][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:32:46,791][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 13:32:46,794][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 13:32:49,469][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:32:49,471][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@7fef359a
+[2019-08-02 13:32:50,395][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 5.642 seconds (JVM running for 8.252)
+[2019-08-02 13:36:36,741][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:36:36,741][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:36:37,551][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 13:36:37,556][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 13:36:37,997][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:36:37,997][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@5a8f894
+[2019-08-02 13:36:38,461][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.779 seconds (JVM running for 236.294)
+[2019-08-02 13:37:29,741][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:37:29,741][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:37:30,061][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 13:37:30,064][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 13:37:30,362][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:37:30,363][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@42e8a67f
+[2019-08-02 13:37:30,817][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.119 seconds (JVM running for 288.644)
+[2019-08-02 13:37:37,523][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:37:37,524][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:37:37,835][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 13:37:37,839][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 13:37:38,117][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:37:38,117][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@34e84b85
+[2019-08-02 13:37:38,570][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.084 seconds (JVM running for 296.397)
+[2019-08-02 13:37:59,504][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:37:59,505][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:37:59,810][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4' does not yet exist.  Creating now.
+[2019-08-02 13:37:59,813][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4]
+[2019-08-02 13:38:00,104][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:38:00,104][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@4fd35746
+[2019-08-02 13:38:00,541][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.075 seconds (JVM running for 318.365)
+[2019-08-02 13:38:11,266][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:38:11,267][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:38:11,564][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5' does not yet exist.  Creating now.
+[2019-08-02 13:38:11,566][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5]
+[2019-08-02 13:38:11,848][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:38:11,849][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@7f143a59
+[2019-08-02 13:38:12,287][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.056 seconds (JVM running for 330.11)
+[2019-08-02 13:39:43,927][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:39:43,928][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:39:44,231][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6' does not yet exist.  Creating now.
+[2019-08-02 13:39:44,234][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6]
+[2019-08-02 13:39:44,507][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:39:44,507][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@8e987ed
+[2019-08-02 13:39:44,949][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.058 seconds (JVM running for 422.761)
+[2019-08-02 13:39:47,600][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:39:47,601][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:39:47,904][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7' does not yet exist.  Creating now.
+[2019-08-02 13:39:47,907][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7]
+[2019-08-02 13:39:48,182][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:39:48,183][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@77859c8f
+[2019-08-02 13:39:48,623][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.061 seconds (JVM running for 426.435)
+[2019-08-02 13:39:53,330][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20044 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:39:53,330][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:39:53,620][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8' does not yet exist.  Creating now.
+[2019-08-02 13:39:53,624][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8]
+[2019-08-02 13:39:53,905][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:39:53,906][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1a6e5255
+[2019-08-02 13:39:54,343][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.047 seconds (JVM running for 432.154)
+[2019-08-02 13:44:21,881][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 11200 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:44:21,930][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:44:23,572][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 13:44:23,575][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 13:44:26,128][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:44:26,130][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@30fbcd3b
+[2019-08-02 13:44:27,031][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 6.008 seconds (JVM running for 10.357)
+[2019-08-02 13:45:02,792][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 11200 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:45:02,793][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:45:03,138][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 13:45:03,141][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 13:45:03,457][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:45:03,458][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@2a0c8d71
+[2019-08-02 13:45:03,888][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.137 seconds (JVM running for 47.21)
+[2019-08-02 13:45:12,144][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20024 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:45:12,152][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:45:13,318][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 13:45:13,321][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 13:45:15,618][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 13:45:15,620][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@16b42af3
+[2019-08-02 13:45:16,473][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 4.706 seconds (JVM running for 5.644)
+[2019-08-02 13:49:09,886][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20024 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:49:09,887][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:49:10,276][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 13:49:10,279][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 13:58:03,613][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 14572 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 13:58:03,621][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 13:58:04,816][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 13:58:04,820][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:01:46,719][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 18844 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:01:46,726][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:01:48,058][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:01:48,062][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:02:19,067][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2300 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:02:19,074][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:02:20,248][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:02:20,252][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:04:01,727][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16664 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:04:01,735][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:04:02,902][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:04:02,907][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:04:05,178][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:04:05,179][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@33bc69cc
+[2019-08-02 14:04:06,218][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 4.886 seconds (JVM running for 5.816)
+[2019-08-02 14:08:10,480][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16664 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:08:10,481][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:08:10,814][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 14:08:10,819][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 14:08:11,187][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:08:11,188][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@b74da09
+[2019-08-02 14:08:11,641][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.203 seconds (JVM running for 251.213)
+[2019-08-02 14:08:20,412][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16664 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:08:20,412][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:08:20,731][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 14:08:20,734][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 14:08:21,036][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:08:21,037][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@575c85de
+[2019-08-02 14:08:21,485][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.112 seconds (JVM running for 261.056)
+[2019-08-02 14:11:15,133][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16664 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:11:15,133][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:11:15,433][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 14:11:15,437][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 14:11:19,216][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16664 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:11:19,216][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:11:23,542][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17912 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:11:23,550][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:11:24,748][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:11:24,752][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:12:50,889][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19048 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:12:50,899][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:12:52,332][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:12:52,336][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:13:58,502][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 18868 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:13:58,510][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:13:59,752][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:13:59,755][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:14:37,133][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19996 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:14:37,139][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:14:38,056][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:14:38,059][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:15:43,422][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17020 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:15:43,430][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:15:44,723][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:15:44,727][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:16:44,943][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 18668 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:16:44,950][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:16:46,094][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:16:46,098][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:19:06,510][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:19:06,555][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:19:07,768][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:19:07,771][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:20:15,877][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 14016 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:20:15,884][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:20:17,039][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:20:17,043][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:21:05,928][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 13668 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:21:05,936][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:21:07,164][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:21:07,167][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:23:09,061][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19428 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:23:09,073][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:23:12,100][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:23:12,105][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:24:37,595][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 8772 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:24:37,606][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:24:40,354][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:24:40,363][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:24:43,860][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:24:43,863][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@166950f9
+[2019-08-02 14:24:45,133][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 8.658 seconds (JVM running for 10.012)
+[2019-08-02 14:25:03,172][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17820 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:25:03,183][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:25:05,716][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:25:05,720][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:25:09,136][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:25:09,139][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@2209e7f7
+[2019-08-02 14:25:10,336][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 8.065 seconds (JVM running for 9.392)
+[2019-08-02 14:31:12,152][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17820 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:31:12,152][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:31:12,736][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 14:31:12,740][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 14:31:13,108][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:31:13,109][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@23751377
+[2019-08-02 14:31:13,617][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.527 seconds (JVM running for 372.634)
+[2019-08-02 14:31:23,942][http-nio-9999-exec-9][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 14:31:24,387][http-nio-9999-exec-9][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 14:32:41,981][Thread-12][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+[2019-08-02 14:32:41,990][Thread-12][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.
+[2019-08-02 14:32:49,403][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17820 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:32:49,404][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:32:49,856][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 14:32:49,860][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 14:32:50,213][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:32:50,214][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@a6b4aea
+[2019-08-02 14:32:50,699][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.338 seconds (JVM running for 469.706)
+[2019-08-02 14:33:20,770][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 17820 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:33:20,771][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:33:21,282][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 14:33:21,286][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 14:33:21,602][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:33:21,603][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@77a5f5a3
+[2019-08-02 14:33:22,048][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.319 seconds (JVM running for 501.052)
+[2019-08-02 14:33:27,728][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 19164 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:33:27,739][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:33:30,829][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:33:30,833][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:33:33,632][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:33:33,634][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1aebb932
+[2019-08-02 14:33:34,916][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 8.12 seconds (JVM running for 9.423)
+[2019-08-02 14:33:53,423][http-nio-9999-exec-8][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 14:33:53,614][http-nio-9999-exec-8][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 14:35:18,969][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 20244 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:35:18,980][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:35:22,464][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:35:22,469][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:35:25,226][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:35:25,228][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@23c457cd
+[2019-08-02 14:35:26,364][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 8.401 seconds (JVM running for 9.724)
+[2019-08-02 14:35:45,435][http-nio-9999-exec-5][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 14:35:51,577][http-nio-9999-exec-5][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 14:40:15,147][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:40:15,157][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:40:18,433][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 14:40:18,438][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 14:40:21,492][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:40:21,495][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@32f828f5
+[2019-08-02 14:40:22,822][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 8.731 seconds (JVM running for 10.023)
+[2019-08-02 14:40:46,305][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 14:40:52,365][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 14:43:30,307][Thread-8][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+[2019-08-02 14:43:30,317][Thread-8][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.
+[2019-08-02 14:43:30,651][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:43:30,654][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:43:31,158][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 14:43:31,163][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 14:43:31,506][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:43:31,507][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1d4ea348
+[2019-08-02 14:43:31,962][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.367 seconds (JVM running for 199.142)
+[2019-08-02 14:44:06,491][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-2 - Starting...
+[2019-08-02 14:44:06,595][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-2 - Start completed.
+[2019-08-02 14:48:28,662][Thread-12][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-2 - Shutdown initiated...
+[2019-08-02 14:48:28,670][Thread-12][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-2 - Shutdown completed.
+[2019-08-02 14:48:29,007][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:48:29,008][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:48:29,697][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 14:48:29,701][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 14:48:29,996][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:48:29,997][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@72e6eff3
+[2019-08-02 14:48:30,436][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.493 seconds (JVM running for 497.585)
+[2019-08-02 14:51:43,447][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:51:43,447][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:51:44,041][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 14:51:44,046][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 14:51:44,320][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:51:44,321][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@5d97f80b
+[2019-08-02 14:51:44,696][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.308 seconds (JVM running for 691.823)
+[2019-08-02 14:51:51,507][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:51:51,507][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:51:51,920][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4' does not yet exist.  Creating now.
+[2019-08-02 14:51:51,923][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4]
+[2019-08-02 14:51:52,148][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:51:52,149][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@2ebea698
+[2019-08-02 14:51:52,503][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.041 seconds (JVM running for 699.63)
+[2019-08-02 14:52:03,814][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-3 - Starting...
+[2019-08-02 14:52:03,835][http-nio-9999-exec-6][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-3 - Start completed.
+[2019-08-02 14:52:03,863][http-nio-9999-exec-9][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 14:52:26,484][Thread-36][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-3 - Shutdown initiated...
+[2019-08-02 14:52:26,491][Thread-36][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-3 - Shutdown completed.
+[2019-08-02 14:52:26,783][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:52:26,784][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:52:27,228][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5' does not yet exist.  Creating now.
+[2019-08-02 14:52:27,235][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5]
+[2019-08-02 14:52:27,469][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:52:27,470][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@655ab140
+[2019-08-02 14:52:27,858][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.121 seconds (JVM running for 734.98)
+[2019-08-02 14:52:55,956][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:52:55,958][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:52:56,352][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6' does not yet exist.  Creating now.
+[2019-08-02 14:52:56,355][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6]
+[2019-08-02 14:52:56,630][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:52:56,631][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@78421dc4
+[2019-08-02 14:52:56,978][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.074 seconds (JVM running for 764.097)
+[2019-08-02 14:54:30,109][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:54:30,110][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:54:30,525][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7' does not yet exist.  Creating now.
+[2019-08-02 14:54:30,528][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7]
+[2019-08-02 14:54:30,788][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:54:30,788][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@7d94b5be
+[2019-08-02 14:54:31,177][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.12 seconds (JVM running for 858.287)
+[2019-08-02 14:54:39,212][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:54:39,213][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:54:39,653][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8' does not yet exist.  Creating now.
+[2019-08-02 14:54:39,657][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8]
+[2019-08-02 14:54:39,885][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:54:39,886][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@c59a3b9
+[2019-08-02 14:54:40,239][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.081 seconds (JVM running for 867.348)
+[2019-08-02 14:54:45,112][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 14:54:45,130][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 14:54:45,627][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.9' does not yet exist.  Creating now.
+[2019-08-02 14:54:45,634][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.9]
+[2019-08-02 14:54:45,951][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 14:54:45,954][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@62a52271
+[2019-08-02 14:54:46,373][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.305 seconds (JVM running for 873.48)
+[2019-08-02 14:55:47,483][http-nio-9999-exec-1][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-4 - Starting...
+[2019-08-02 14:55:47,588][http-nio-9999-exec-1][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-4 - Start completed.
+[2019-08-02 15:00:18,631][Thread-76][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-4 - Shutdown initiated...
+[2019-08-02 15:00:18,641][Thread-76][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-4 - Shutdown completed.
+[2019-08-02 15:00:26,091][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:00:26,092][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:00:26,747][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.10' does not yet exist.  Creating now.
+[2019-08-02 15:00:26,754][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.10]
+[2019-08-02 15:00:27,010][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:00:27,011][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@3a997ae3
+[2019-08-02 15:00:27,347][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.314 seconds (JVM running for 1214.418)
+[2019-08-02 15:00:37,180][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:00:37,181][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:00:37,580][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.11' does not yet exist.  Creating now.
+[2019-08-02 15:00:37,585][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.11]
+[2019-08-02 15:00:37,805][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:00:37,806][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@5ccd6349
+[2019-08-02 15:00:38,165][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.027 seconds (JVM running for 1225.235)
+[2019-08-02 15:00:42,080][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:00:42,081][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:00:42,460][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.12' does not yet exist.  Creating now.
+[2019-08-02 15:00:42,463][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.12]
+[2019-08-02 15:00:42,691][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:00:42,691][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@61e40a67
+[2019-08-02 15:00:43,030][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 0.989 seconds (JVM running for 1230.1)
+[2019-08-02 15:03:04,885][http-nio-9999-exec-8][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-5 - Starting...
+[2019-08-02 15:03:04,892][http-nio-9999-exec-8][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-5 - Start completed.
+[2019-08-02 15:23:11,778][Thread-100][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-5 - Shutdown initiated...
+[2019-08-02 15:23:11,807][Thread-100][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-5 - Shutdown completed.
+[2019-08-02 15:23:13,095][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:23:13,096][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:23:14,140][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.13' does not yet exist.  Creating now.
+[2019-08-02 15:23:14,144][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.13]
+[2019-08-02 15:23:15,575][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:23:15,576][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@5d0b674c
+[2019-08-02 15:23:16,003][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 3.122 seconds (JVM running for 2582.926)
+[2019-08-02 15:26:18,900][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:26:18,901][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:26:19,260][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.14' does not yet exist.  Creating now.
+[2019-08-02 15:26:19,263][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.14]
+[2019-08-02 15:26:19,466][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:26:19,467][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@9a3b2eb
+[2019-08-02 15:26:19,829][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 0.973 seconds (JVM running for 2766.734)
+[2019-08-02 15:28:02,496][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:28:02,497][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:28:02,919][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.15' does not yet exist.  Creating now.
+[2019-08-02 15:28:02,924][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.15]
+[2019-08-02 15:28:03,172][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:28:03,173][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@431068da
+[2019-08-02 15:28:03,963][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.607 seconds (JVM running for 2870.856)
+[2019-08-02 15:30:33,132][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:30:33,134][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:30:33,495][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.16' does not yet exist.  Creating now.
+[2019-08-02 15:30:33,498][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.16]
+[2019-08-02 15:30:33,707][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:30:33,708][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@68d666f8
+[2019-08-02 15:30:34,056][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 0.979 seconds (JVM running for 3020.932)
+[2019-08-02 15:30:54,540][http-nio-9999-exec-3][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-6 - Starting...
+[2019-08-02 15:30:54,868][http-nio-9999-exec-3][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-6 - Start completed.
+[2019-08-02 15:34:54,863][Thread-132][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-6 - Shutdown initiated...
+[2019-08-02 15:34:54,871][Thread-132][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-6 - Shutdown completed.
+[2019-08-02 15:34:55,187][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:34:55,188][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:34:55,546][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.17' does not yet exist.  Creating now.
+[2019-08-02 15:34:55,554][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.17]
+[2019-08-02 15:34:55,768][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:34:55,771][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@2dd14b9b
+[2019-08-02 15:34:56,172][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.028 seconds (JVM running for 3283.021)
+[2019-08-02 15:35:24,238][http-nio-9999-exec-4][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-7 - Starting...
+[2019-08-02 15:35:24,251][http-nio-9999-exec-4][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-7 - Start completed.
+[2019-08-02 15:50:20,751][Thread-140][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-7 - Shutdown initiated...
+[2019-08-02 15:50:20,759][Thread-140][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-7 - Shutdown completed.
+[2019-08-02 15:50:21,078][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 2304 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:50:21,079][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:55:04,444][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:55:04,459][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:55:06,755][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 15:55:06,760][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 15:55:10,039][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:55:10,053][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@7acbc486
+[2019-08-02 15:55:11,630][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 7.754 seconds (JVM running for 9.3)
+[2019-08-02 15:55:18,631][http-nio-9999-exec-4][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 15:55:18,828][http-nio-9999-exec-4][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 15:55:58,488][Thread-8][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+[2019-08-02 15:55:58,497][Thread-8][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.
+[2019-08-02 15:55:58,794][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 15:55:58,794][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 15:55:59,187][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1' does not yet exist.  Creating now.
+[2019-08-02 15:55:59,190][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.1]
+[2019-08-02 15:55:59,444][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 15:55:59,445][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@76509a7b
+[2019-08-02 15:55:59,917][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.167 seconds (JVM running for 57.581)
+[2019-08-02 16:03:00,947][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:00,948][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:01,369][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2' does not yet exist.  Creating now.
+[2019-08-02 16:03:01,373][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.2]
+[2019-08-02 16:03:01,620][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:01,621][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@21a71ca6
+[2019-08-02 16:03:02,076][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.179 seconds (JVM running for 479.695)
+[2019-08-02 16:03:13,951][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:13,951][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:14,316][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3' does not yet exist.  Creating now.
+[2019-08-02 16:03:14,320][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.3]
+[2019-08-02 16:03:14,556][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:14,557][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@147ca795
+[2019-08-02 16:03:15,009][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.102 seconds (JVM running for 492.626)
+[2019-08-02 16:03:25,798][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:25,799][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:26,148][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4' does not yet exist.  Creating now.
+[2019-08-02 16:03:26,151][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.4]
+[2019-08-02 16:03:26,390][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:26,391][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@afab175
+[2019-08-02 16:03:26,842][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.08 seconds (JVM running for 504.458)
+[2019-08-02 16:03:33,535][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:33,536][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:33,888][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5' does not yet exist.  Creating now.
+[2019-08-02 16:03:33,891][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.5]
+[2019-08-02 16:03:34,114][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:34,114][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@6184f2b7
+[2019-08-02 16:03:34,552][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.053 seconds (JVM running for 512.167)
+[2019-08-02 16:03:39,283][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:39,283][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:39,633][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6' does not yet exist.  Creating now.
+[2019-08-02 16:03:39,636][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.6]
+[2019-08-02 16:03:39,868][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:39,868][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1b1ae3ee
+[2019-08-02 16:03:40,321][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.075 seconds (JVM running for 517.936)
+[2019-08-02 16:03:56,138][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:03:56,138][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:03:56,494][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7' does not yet exist.  Creating now.
+[2019-08-02 16:03:56,498][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.7]
+[2019-08-02 16:03:56,730][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:03:56,731][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1c3b2134
+[2019-08-02 16:03:57,169][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.067 seconds (JVM running for 534.782)
+[2019-08-02 16:04:44,396][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:04:44,396][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:04:44,758][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8' does not yet exist.  Creating now.
+[2019-08-02 16:04:44,760][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.8]
+[2019-08-02 16:04:44,988][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:04:44,989][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@41668c34
+[2019-08-02 16:04:45,434][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.078 seconds (JVM running for 583.041)
+[2019-08-02 16:05:24,525][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:05:24,526][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:05:24,871][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.9' does not yet exist.  Creating now.
+[2019-08-02 16:05:24,874][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.9]
+[2019-08-02 16:05:25,097][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:05:25,097][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@1f6ab731
+[2019-08-02 16:05:25,540][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.049 seconds (JVM running for 623.143)
+[2019-08-02 16:05:32,247][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:05:32,248][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:05:32,641][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.10' does not yet exist.  Creating now.
+[2019-08-02 16:05:32,645][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.10]
+[2019-08-02 16:05:32,868][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:05:32,869][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@ae0d416
+[2019-08-02 16:05:33,295][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.083 seconds (JVM running for 630.898)
+[2019-08-02 16:05:57,180][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:05:57,181][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:05:57,544][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.11' does not yet exist.  Creating now.
+[2019-08-02 16:05:57,547][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.11]
+[2019-08-02 16:05:57,775][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:05:57,776][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@570139de
+[2019-08-02 16:05:58,208][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.061 seconds (JVM running for 655.808)
+[2019-08-02 16:06:04,943][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:06:04,944][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:06:05,283][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.12' does not yet exist.  Creating now.
+[2019-08-02 16:06:05,285][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.12]
+[2019-08-02 16:06:05,510][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:06:05,511][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@10beddb1
+[2019-08-02 16:06:05,948][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.038 seconds (JVM running for 663.547)
+[2019-08-02 16:06:13,681][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 16108 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:06:13,682][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:06:14,028][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.13' does not yet exist.  Creating now.
+[2019-08-02 16:06:14,031][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache.13]
+[2019-08-02 16:06:14,270][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:06:14,270][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@75328c33
+[2019-08-02 16:06:14,705][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 1.06 seconds (JVM running for 672.303)
+[2019-08-02 16:06:30,248][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 8480 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
+[2019-08-02 16:06:30,254][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
+[2019-08-02 16:06:32,421][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
+[2019-08-02 16:06:32,424][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
+[2019-08-02 16:06:34,891][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
+[2019-08-02 16:06:34,893][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@740a65f6
+[2019-08-02 16:06:36,027][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 6.586 seconds (JVM running for 10.14)
+[2019-08-02 16:06:53,282][http-nio-9999-exec-5][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
+[2019-08-02 16:06:53,611][http-nio-9999-exec-5][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-02 16:06:53,730][http-nio-9999-exec-7][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 16:06:55,692][http-nio-9999-exec-9][INFO][com.after90s.project.web.controller.PageController:33] 进入首页
+[2019-08-02 16:06:56,403][http-nio-9999-exec-7][INFO][com.after90s.project.web.controller.PageController:33] 进入首页

@@ -11,6 +11,8 @@ package com.after90s.project.web.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
@@ -25,8 +27,14 @@ import org.springframework.web.bind.annotation.GetMapping;
  */
 @Controller
 public class PageController {
+	private static Logger logger = LoggerFactory.getLogger(PageController.class);
 	@GetMapping(value= {"index","/","/index"})
 	public String toHomePage(HttpServletRequest req) {
+		logger.info("进入首页");
+		logger.error("进入首页");
+		logger.debug("进入首页");
+		logger.warn("进入首页");
+		logger.trace("进入首页");
 		return "index";
 		
 	}

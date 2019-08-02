@@ -12,6 +12,7 @@ package com.after90s.frame.shiro.realm;
 import java.util.HashSet;
 import java.util.Set;
 
+import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;
 import org.apache.shiro.authc.AuthenticationToken;
@@ -23,8 +24,9 @@ import org.apache.shiro.authz.SimpleAuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.apache.shiro.util.ByteSource;
+import org.springframework.beans.factory.annotation.Autowired;
 
-import com.after90s.project.web.user.service.UserServiceImpl;
+import com.after90s.project.web.user.service.IUserService;
 
 /**
  * <p>TODO 自定义Realm</p>
@@ -37,7 +39,8 @@ import com.after90s.project.web.user.service.UserServiceImpl;
  */
 
 public class MyShiroRealm extends AuthorizingRealm {
-
+@Autowired
+private IUserService userService;
 	/* 
 	 *  用于授权
 	 */
@@ -84,9 +87,6 @@ public class MyShiroRealm extends AuthorizingRealm {
 				// 获得从表单传过来的用户名
 				String username = upToken.getUsername();
 		 
-				// 从数据库查看是否存在用户
-				UserServiceImpl userService = new UserServiceImpl();
-		 
 				// 如果用户不存在，抛此异常
 				if (!userService.selectUsername(username)) {
 					throw new UnknownAccountException("无此用户名！");
@@ -96,16 +96,24 @@ public class MyShiroRealm extends AuthorizingRealm {
 				Object principal = username;
 				// 从数据库中查询的密码
 				Object credentials = userService.selectPassword(username);
-				// 颜值加密的颜，可以用用户名
+				
+				// 盐值加密的盐，可以用用户名  也可以用随机数随机字母
 				ByteSource credentialsSalt = ByteSource.Util.bytes(username);
-				// 当前realm对象的名称，调用分类的getName()
+				// 当前realm对象的名称，getName()
 				String realmName = this.getName();
 		 
 				// 创建SimpleAuthenticationInfo对象，并且把username和password等信息封装到里面
 				// 用户密码的比对是Shiro帮我们完成的
 				SimpleAuthenticationInfo info = null;
+//				new SimpleHash(hashAlogorithnName,credentials,salt,hashIterations)
 				info = new SimpleAuthenticationInfo(principal, credentials, credentialsSalt, realmName);
 				return info;
 	}
-
+	  /**
+     * 清理缓存权限
+     */
+    public void clearCachedAuthorizationInfo()
+    {
+        this.clearCachedAuthorizationInfo(SecurityUtils.getSubject().getPrincipals());
+    }
 }

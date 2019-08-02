@@ -22,9 +22,9 @@ import org.springframework.stereotype.Component;
  * @author lijiawen
  * @version 2019年7月31日
  */
-@Aspect
+@Aspect//开启一个异步任务
 @Component
-@EnableAsync
+@EnableAsync// 启用异步任务  
 public class LogAspectJ {
 	private static final Logger log = LoggerFactory.getLogger(LogAspectJ.class);
 }
