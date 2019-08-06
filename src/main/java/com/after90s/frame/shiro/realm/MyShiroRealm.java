@@ -26,6 +26,7 @@ import org.apache.shiro.subject.PrincipalCollection;
 import org.apache.shiro.util.ByteSource;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import com.after90s.project.web.user.entity.UserEntity;
 import com.after90s.project.web.user.service.IUserService;
 
 /**
@@ -92,8 +93,11 @@ private IUserService userService;
 					throw new UnknownAccountException("无此用户名！");
 				}
 		 
-				// 认证的实体信息，可以是username，也可以是用户的实体类对象，这里用的用户名
-				Object principal = username;
+				// 认证的实体信息，可以是username，也可以是用户的实体类对象，这里先新建一个用户实体
+				UserEntity ss=new UserEntity();
+				ss.setLoginName(username);
+				ss.setUserName(username);
+//				Object principal = username;
 				// 从数据库中查询的密码
 				Object credentials = userService.selectPassword(username);
 				
@@ -106,7 +110,7 @@ private IUserService userService;
 				// 用户密码的比对是Shiro帮我们完成的
 				SimpleAuthenticationInfo info = null;
 //				new SimpleHash(hashAlogorithnName,credentials,salt,hashIterations)
-				info = new SimpleAuthenticationInfo(principal, credentials, credentialsSalt, realmName);
+				info = new SimpleAuthenticationInfo(ss, credentials, credentialsSalt, realmName);
 				return info;
 	}
 	  /**

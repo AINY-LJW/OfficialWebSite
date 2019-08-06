@@ -12,11 +12,13 @@ package com.after90s.project.web.homePage.controller;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import com.after90s.common.annotation.Log;
 import com.after90s.project.web.homePage.entity.MenuEntity;
 import com.after90s.project.web.homePage.service.IMenuService;
 
@@ -32,6 +34,8 @@ public class MenuController {
 //    private String prefix = "system/menu";
     @Autowired
     private IMenuService menuService;
+    
+    @Log(title="目录",action="获取目录")
 	@GetMapping()
 	@ResponseBody
 	public List<MenuEntity> getAllMenuList(){

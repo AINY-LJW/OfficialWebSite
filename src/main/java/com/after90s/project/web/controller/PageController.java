@@ -30,11 +30,11 @@ public class PageController {
 	private static Logger logger = LoggerFactory.getLogger(PageController.class);
 	@GetMapping(value= {"index","/","/index"})
 	public String toHomePage(HttpServletRequest req) {
-		logger.info("进入首页");
-		logger.error("进入首页");
-		logger.debug("进入首页");
-		logger.warn("进入首页");
-		logger.trace("进入首页");
+//		logger.info("进入首页");
+//		logger.error("进入首页");
+//		logger.debug("进入首页");
+//		logger.warn("进入首页");
+//		logger.trace("进入首页");
 		return "index";
 		
 	}

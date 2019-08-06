@@ -9,7 +9,6 @@
 
 package com.after90s.project.web.user.entity;
 
-import java.io.Serializable;
 import java.util.Arrays;
 import java.util.Date;
 

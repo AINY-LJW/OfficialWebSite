@@ -31,6 +31,7 @@ import net.sf.ehcache.CacheManager;
 /**
  * <p>
  * TODO Shiro配置
+ * 带有 @Bean 注解的方法名称作为 bean 的 ID，它创建并返回实际的 bean。你的配置类可以声明多个 @Bean
  * </p>
  *
  * @author lijiawen

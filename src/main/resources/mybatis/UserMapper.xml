@@ -26,7 +26,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 		<result property="updateTime"   column="update_time"  />
 		<!-- <association property="dept"    column="dept_id" javaType="DeptEntity" resultMap="deptResult"/> -->
 	</resultMap>
-	
+<!-- 	#{}  防止sql注入，使用预编译，默认字符串   ${}为原样输出   相当于拼接-->
 	<!-- <resultMap id="deptResult" type="DeptEntity">
 		<id     property="deptId"   column="dept_id"     />
 		<result property="parentId" column="parent_id"   />
