@@ -135,9 +135,9 @@ public class ShiroConfig {
 	@Bean
 	@ConditionalOnMissingBean
 	public DefaultAdvisorAutoProxyCreator defaultAdvisorAutoProxyCreator() {
-		DefaultAdvisorAutoProxyCreator defaultAAP = new DefaultAdvisorAutoProxyCreator();
-		defaultAAP.setProxyTargetClass(true);
-		return defaultAAP;
+		DefaultAdvisorAutoProxyCreator defaultApp = new DefaultAdvisorAutoProxyCreator();
+		defaultApp.setProxyTargetClass(true);
+		return defaultApp;
 	}
 	
 	/* shiro缓存管理器;

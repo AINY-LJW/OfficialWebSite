@@ -49,7 +49,7 @@ public class MenuServiceImpl implements IMenuService {
 			long start = System.currentTimeMillis();
 			 String string = opsForValue.get(SystemConstant.SYSTEM_REDISKEY_ALLMENU);
 			long end = System.currentTimeMillis();
-			 System.out.println("查询redis花费的时间是:" + (end - start)+"s");
+			 System.out.println("查询redis花费的时间是:" + (end - start)+"ms");
 			 List<MenuEntity> parseArray = JSON.parseArray(string, MenuEntity.class);
 			 return parseArray;
 			
@@ -59,7 +59,7 @@ public class MenuServiceImpl implements IMenuService {
 			example.setDistinct(false);
 			List<MenuEntity> allMneuList = mapper.selectByExample(example);
 			long end = System.currentTimeMillis();
-			System.out.println("查询mysql花费的时间是:" + (end - start)+"s");
+			System.out.println("查询mysql花费的时间是:" + (end - start)+"ms");
 			String jsonString = JSON.toJSONString(allMneuList);
 			opsForValue.set(SystemConstant.SYSTEM_REDISKEY_ALLMENU, jsonString, 5, TimeUnit.HOURS);
 			return allMneuList;

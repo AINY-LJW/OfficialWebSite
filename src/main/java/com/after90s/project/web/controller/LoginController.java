@@ -36,8 +36,8 @@ import org.springframework.web.bind.annotation.PostMapping;
  */
 @Controller
 public class LoginController {
-//	@Autowired
-//	private UserServiceImpl userService;
+/// @Autowired
+///	private UserServiceImpl userService;
 	
 	@PostMapping("login")
 	public String login(String username, String password, Map<String, Object> map, HttpSession session) {

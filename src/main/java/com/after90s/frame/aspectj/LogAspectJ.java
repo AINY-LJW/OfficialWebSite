@@ -32,12 +32,11 @@ import com.after90s.project.web.user.entity.UserEntity;
 
 /**
  * <p>
- * TODO Log注解切面操作相关
- * 可以把重要的操作保存到数据库
+ * TODO Log注解切面操作相关 可以把重要的操作保存到数据库
  * </p>
  *
  *
- * @author lijiawen
+ * @author AINY
  * @version 2019年7月31日
  */
 @Aspect // 作用是把当前类标识为一个切面供容器读
@@ -46,10 +45,18 @@ import com.after90s.project.web.user.entity.UserEntity;
 public class LogAspectJ {
 	private static final Logger log = LoggerFactory.getLogger(LogAspectJ.class);
 
-	// 配置织入点
-	// 也可以切入包
-//    @Pointcut("execution(* com.tutorialspoint.*.*(..))")
+	/*
+	 * 配置织入点 也可以切入包、方法，本次切入的是自定义的注解
+	 * 
+	 * @Pointcut("execution(* com.after90s.Student.getName(..))")
+	 * 
+	 * @Pointcut("execution(* com.after90s.*.*(..))")
+	 */
 	@Pointcut("@annotation(com.after90s.common.annotation.Log)")
+	/**
+	 * signature
+	 *  void
+	 */
 	public void logCutPoint() {
 	}
 
@@ -66,19 +73,20 @@ public class LogAspectJ {
 	 */
 	@After("logCutPoint()")
 	public void afterAdvice() {
-		System.out.println("======================方法执行后===================");
+		System.out.println("======================方法执行中========");
 	}
 
 	/**
 	 * 方法返回对象前 void
 	 */
-	@AfterReturning(pointcut = "logCutPoint()")
+	@AfterReturning(pointcut = "logCutPoint()", returning = "joinPoint")
 	public void afterReturningAdvice(JoinPoint joinPoint) {
 		handleLog(joinPoint, null);
+		System.out.println("======================方法执行后===================");
 	}
 
 	/**
-	 * 
+	 * 出现异常时
 	 * 
 	 * @param joinPoint
 	 * @param e         void
@@ -86,6 +94,7 @@ public class LogAspectJ {
 	@AfterThrowing(value = "logCutPoint()", throwing = "e")
 	public void doAfter(JoinPoint joinPoint, Exception e) {
 		handleLog(joinPoint, e);
+		System.out.println("======================方法出现异常===================");
 	}
 
 	/**
@@ -111,13 +120,12 @@ public class LogAspectJ {
 		String className = joinPoint.getTarget().getClass().getName();
 		String methodName = joinPoint.getSignature().getName();
 		if (currentUser != null) {
-			System.out
-					.println("==================" + currentUser.getLoginName() + "操作：" + className + "." + methodName);
-			System.out.println("==================ip" + ip);
+			log.info("==================" + currentUser.getLoginName() + "操作：" + className + "." + methodName);
+			log.info("==================ip" + ip);
 		}
 		if (e != null) {
-			System.out.println("===================" + e.getMessage() + "操作：" + className + "." + methodName);
-			System.out.println("==================ip" + ip);
+			log.info("===================" + e.getMessage() + "操作：" + className + "." + methodName);
+			log.info("==================ip" + ip);
 		}
 	}
 
