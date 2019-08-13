@@ -1,4 +1,4 @@
-[2019-08-06 16:17:25,893][http-nio-9999-exec-6][ERROR][org.thymeleaf.TemplateEngine:1136] [THYMELEAF][http-nio-9999-exec-6] Exception processing template "/loginFial": Error resolving template [/loginFial], template might not exist or might not be accessible by any of the configured Template Resolvers
+[2019-08-13 17:28:42,416][http-nio-9999-exec-5][ERROR][org.thymeleaf.TemplateEngine:1136] [THYMELEAF][http-nio-9999-exec-5] Exception processing template "/loginFial": Error resolving template [/loginFial], template might not exist or might not be accessible by any of the configured Template Resolvers
 org.thymeleaf.exceptions.TemplateInputException: Error resolving template [/loginFial], template might not exist or might not be accessible by any of the configured Template Resolvers
 	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
 	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
