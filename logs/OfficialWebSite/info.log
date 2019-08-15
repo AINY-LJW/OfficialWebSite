@@ -1,9 +1,2 @@
-[2019-08-13 17:27:20,204][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:50] Starting OfficialWebSiteApplication on jiuqi-lijiawen with PID 26380 (D:\workspace-sts\OfficialWebSite\target\classes started by lijiawen in D:\workspace-sts\OfficialWebSite)
-[2019-08-13 17:27:20,311][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:675] No active profile set, falling back to default profiles: default
-[2019-08-13 17:27:22,373][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:158] Cache with name 'com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache' does not yet exist.  Creating now.
-[2019-08-13 17:27:22,376][restartedMain][INFO][org.apache.shiro.cache.ehcache.EhCacheManager:165] Added EhCache named [com.after90s.frame.shiro.realm.MyShiroRealm.authorizationCache]
-[2019-08-13 17:27:25,299][restartedMain][INFO][com.after90s.frame.config.I18nConfig:31] #####sessionLocaleResolver---create
-[2019-08-13 17:27:25,301][restartedMain][INFO][com.after90s.frame.config.I18nConfig:34] #####sessionLocaleResolver:org.springframework.web.servlet.i18n.SessionLocaleResolver@15b0d30e
-[2019-08-13 17:27:26,293][restartedMain][INFO][com.after90s.OfficialWebSiteApplication:59] Started OfficialWebSiteApplication in 6.898 seconds (JVM running for 9.342)
-[2019-08-13 17:28:25,385][http-nio-9999-exec-7][INFO][com.zaxxer.hikari.HikariDataSource:110] HikariPool-1 - Starting...
-[2019-08-13 17:28:25,576][http-nio-9999-exec-7][INFO][com.zaxxer.hikari.HikariDataSource:123] HikariPool-1 - Start completed.
+[2019-08-14 08:39:30,610][RMI TCP Connection(2)-127.0.0.1][INFO][com.zaxxer.hikari.HikariDataSource:350] HikariPool-1 - Shutdown initiated...
+[2019-08-14 08:39:30,657][RMI TCP Connection(2)-127.0.0.1][INFO][com.zaxxer.hikari.HikariDataSource:352] HikariPool-1 - Shutdown completed.

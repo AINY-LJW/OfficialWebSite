@@ -1,5 +1,5 @@
 /**============================================================
- * 版权： 久其软件 版权所有 (c) 2002 - 2012
+ * 版权： 
  * 包： com.after90s.common.annotation
  * 修改记录：
  * 日期                作者           内容
@@ -18,8 +18,8 @@ import java.lang.annotation.Target;
 /**
  * <p>TODO 类描述</p>
  *
- * <p>Copyright: 版权所有 (c) 2002 - 2008<br>
- * Company: 久其</p>
+ * <p>
+ * </p>
  *
  * @author lijiawen
  * @version 2019年8月6日
